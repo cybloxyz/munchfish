@@ -1,0 +1,21 @@
+Project Title: 		Munchfish
+Borard Title: 		Board1
+PCB Title: 		PCB1
+Time: 		2026-09-09 17:16:25
+
+Borard Size: 		3161.4mil x 2052.7mil
+Layers: 		Total 22, Copper 2
+
+Devices: 		5
+Footprints: 		5
+Components: 		Total 8,Top Layer 8,Bottom Layer 0
+Pads: 		Total 56, Top Side Table Stick 16,Bottom Side Table Stick 0,Metallized Hole 40, Nonmetallic Hole 0
+Nets: 		Total 9, Unrouted 0
+Test Point: 		Nets Total 9, Has Testpoint Nets 0, Testpoint Coverage 0%
+ 		Total 0, Top Side Testpoints 0, Bottom Side Testpoints 0
+
+Slot Region: 		4
+Vias: 		Total 0, Through Vias 0, Blind Or Buried Vais 0
+CopperAreas: 		0
+Length of Tracks: 		20776.6mil
+
