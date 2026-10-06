@@ -31,6 +31,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <Preferences.h>
+#include "munchfishtyp.h"
 #if ENABLE_BLE
 #include <BLEDevice.h>
 #include <BLEServer.h>
@@ -654,7 +655,6 @@ uint32_t epochAtSync = 0;        // jam lokal (detik sejak 1970) saat sinkron
 unsigned long msAtSync = 0;
 
 // ================= STATE: POMODORO =================
-enum PomoPhase { PH_FOCUS = 0, PH_BREAK = 1, PH_LONG = 2 };
 bool pomoView = false;           // tampilan pomodoro lagi kebuka
 PomoPhase pomoPhase = PH_FOCUS;
 bool pomoRunning = false;
@@ -667,7 +667,6 @@ struct Media { uint8_t state; uint16_t pos; uint16_t dur; char title[80]; unsign
 Media media = {0, 0, 0, "", 0};   // state: 0 berhenti, 1 main, 2 jeda
 
 // ================= STATE: NADA BUZZER =================
-struct Note { uint16_t f; uint16_t ms; };
 const Note MEL_POMO_DONE[] = { {784, 120}, {988, 120}, {1175, 120}, {1568, 320} };
 const Note MEL_BREAK_END[] = { {1175, 150}, {988, 150}, {784, 260} };
 const Note* melody = nullptr;
