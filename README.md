@@ -1,8 +1,8 @@
-# Munchfish
+# Gotchibo now munchfish
 
-What if your keychain is an aquarium with cute little fish inside?
+What if your keychain is an aquarium with cute little fish inside even remind you to do something?
 
-Meet munchfish! your very fish keychain that always swim, it works as a little companion and will always with you no matter what, it could hanging on your bag!
+Meet munchfish! your very fish keychain that always swim, it works as a little companion and even custom reminder and to-do list and will always with you no matter what, it could hanging on your bag!
 
 ![pcb preview 1](pics/munch.jpg)
 ![pcb preview 1](pics/inwork.jpg)
@@ -19,7 +19,7 @@ each button has 2 types of push, long push and short push
 
 -fish status
 
--to-do-list
+-to-do-list + reminder
 
 -spotify preview when BLE connected
 
@@ -31,7 +31,7 @@ each button has 2 types of push, long push and short push
 
 ## problem solving
 
-Ever face a really hard to dicipline children? for me it is my little brother, he hates dicipline, he eats whenever he wants even mostly he never wants, he postpones homework, even sleep irregularly it is frustrating because oh god he just 8?!
+Ever face a really hard to dicipline children? for me it is my little brother, he hates dicipline, he eats whenever he wants even mostly he never wants, he postpones homework, even sleep irregularly it is frustrating?!
 
 that is why i come with this solution, no child say no to something sparks their curiosity, munchfish come with something interactable, by including him in building phase so he trying his best to make what matter for him, yes it may not guarantee for all kids, but as long as you know what sparks their curiosity they will do anything to know and know more.
 
