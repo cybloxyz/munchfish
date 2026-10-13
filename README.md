@@ -9,7 +9,7 @@ Meet munchfish! your very fish keychain that always swim, it works as a little c
 
 Munchfish's size is as big as your card, let's say it is not that big right? the actual size is 8.1x5.2 in centimeter. i still work on case so for temporary case i use thick pipe cleaner.
 
-here is the [demo video](https://drive.google.com/file/d/1yBsQS2uueLiC4brjsU2Olyx7SvKR2_dp/view?usp=sharing)
+here is the [demo video](https://youtube.com/shorts/TYYL9PZ-T8M)
 
 ## features
 
